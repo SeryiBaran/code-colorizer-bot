@@ -1,4 +1,4 @@
-# telegram-clicker
+# code-colorizer-bot
 
 ![Скриншот](.github/screenshot.png)
 
